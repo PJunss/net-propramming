@@ -1,0 +1,10 @@
+Server1 : Tue Apr 11 22:53:12 2023 Temp : 27 Humid : 4 illum : 91
+Server1 : Tue Apr 11 22:53:26 2023 Temp : 32 Humid : 67 illum : 89
+Server1 : Tue Apr 11 22:53:29 2023 Temp : 40 Humid : 39 illum : 110
+Server1 : Tue Apr 11 22:53:30 2023 Temp : 1 Humid : 70 illum : 78
+Server1 : Tue Apr 11 22:53:32 2023 Temp : 11 Humid : 30 illum : 103
+Server2 : Tue Apr 11 22:53:34 2023 Heartbeat : 124 Steps : 5236 Cal : 2051
+Server2 : Tue Apr 11 22:53:37 2023 Heartbeat : 96 Steps : 4637 Cal : 1626
+Server2 : Tue Apr 11 22:53:39 2023 Heartbeat : 57 Steps : 3988 Cal : 3980
+Server2 : Tue Apr 11 22:53:40 2023 Heartbeat : 130 Steps : 2123 Cal : 1956
+Server2 : Tue Apr 11 22:53:41 2023 Heartbeat : 90 Steps : 5985 Cal : 2860
